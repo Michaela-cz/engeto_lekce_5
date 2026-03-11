@@ -1,2 +1,2 @@
-# engeto_lekce_5
+# Engeto lekce 5 - Git a Github
 Testovací repozitář v rámci kurzu.
